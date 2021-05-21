@@ -18,14 +18,3 @@
 * Natural language processing
 * Machine listening
 
-### Open source developer
-
-*Reproducible research advocate*
-
-* Lead developer of [pyannote.audio](https://github.com/pyannote/pyannote-audio) [![GitHub stars](https://img.shields.io/github/stars/pyannote/pyannote-audio?style=plastic)](https://github.com/pyannote/pyannote-audio)  
-*a deep learning toolkit for speaker diarization*
-* Lead developer of [pyannote.video](https://github.com/pyannote/pyannote-video) [![GitHub stars](https://img.shields.io/github/stars/pyannote/pyannote-video?style=plastic)](https://github.com/pyannote/pyannote-video)  
-*face detection, tracking and clustering in videos* 
-* Lead developer of [pyannote.metrics](https://pyannote.github.io/pyannote-metrics) [![GitHub stars](https://img.shields.io/github/stars/pyannote/pyannote-metrics?style=plastic)](https://pyannote.github.io/pyannote-metrics)  
-*a toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems*
-
