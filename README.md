@@ -10,7 +10,7 @@
 
 ### Scientific advisor 
 
-*Self-employed, [available](mailto:herve@niderb.fr) for contracting*
+*Self-employed, [available](https://herve.niderb.fr/consulting) for contracting*
 
 * Machine learning
 * Deep learning
