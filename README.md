@@ -1,3 +1,8 @@
+### [pyannoteAI](https://www.pyannote.ai)
+
+* Co-founder
+* Chief Science Officer (CSO)
+
 ### Academic researcher 
 
 *Deep learning for audio, speech and natural language processing*
@@ -7,14 +12,4 @@
 * Member of the [SAMoVA](https://www.irit.fr/SAMOVA/) team
 
 *Publications:* [HAL](https://cv.archives-ouvertes.fr/hbredin) or [Google Scholar](https://scholar.google.com/citations?user=obEwWjZOI0cC) 
-
-### Scientific advisor 
-
-*Self-employed, [available](https://herve.niderb.fr/consulting) for contracting*
-
-* Machine learning
-* Deep learning
-* Speech processing
-* Natural language processing
-* Machine listening
 
